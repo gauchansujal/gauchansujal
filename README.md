@@ -14,7 +14,7 @@
 
 - ## 📞 Connect with me:
 
-[<img src="https://img.icons8.com/fluency/48/instagram-new.png" height="30" />](https://instagram.com/sujalgauchan)
+[<img src="https://img.icons8.com/fluency/48/instagram-new.png" height="60" />](https://instagram.com/sujalgauchan)
 
 
 ## 🧰 Languages and Tools:
