@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Fitfule** and **Yatri Duyina**
 - 🌱 I’m currently learning **ReactJS**, **NodeJS**, **Kotlin**, and **Django**
-- 👨‍💻 All of my projects are available at [my GitHub profile](https://github.com/sujal123)
+- 👨‍💻 All of my projects are available at [my GitHub profile](https://github.com/gauchansujal)
 - 💬 Ask me about **React**, **Django**, or **Frontend Development**
 - 📫 How to reach me: **gauchansujal0@gmail.com**
 - ⚡ Fun fact: I love building things that solve real-world problems 🧠
