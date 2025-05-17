@@ -1,13 +1,16 @@
-- 👋 Hi, I’m sujal
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Python, react, node.js, java, django
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me gauchansujal0@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi 👋, I'm Sujal  
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sujal123&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
-[![Trophy](https://github-profile-trophy.vercel.app/?username=sujal123&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+- 🔭 I’m currently working on **Fitfule** and **Yatri Duyina**
+- 🌱 I’m currently learning **ReactJS**, **NodeJS**, **Kotlin**, and **Django**
+- 👨‍💻 All of my projects are available at [my GitHub profile](https://github.com/sujal123)
+- 💬 Ask me about **React**, **Django**, or **Frontend Development**
+- 📫 How to reach me: **gauchansujal0@gmail.com**
+- ⚡ Fun fact: I love building things that solve real-world problems 🧠
 
 
 
