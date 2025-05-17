@@ -7,7 +7,8 @@
 - ⚡ Fun fact: ...
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sujal123&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
-https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=THEME_NAME
+[![Trophy](https://github-profile-trophy.vercel.app/?username=sujal123&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 <!---
