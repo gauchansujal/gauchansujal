@@ -1,7 +1,4 @@
-           <h1 align="center">Hi, my name is Sujal</h1>
-
-
-
+<h1 align="center">Hi 👋, I'm Yug</h1>
 [![trophy](https://github-profile-trophy.vercel.app/?username=sujal123&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
