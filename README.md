@@ -14,7 +14,8 @@
 
 - ## 📞 Connect with me:
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sujalgauchan)
+[<img src="https://img.icons8.com/fluency/48/instagram-new.png" height="30" />](https://instagram.com/sujalgauchan)
+
 
 ## 🧰 Languages and Tools:
 <p align="left">
