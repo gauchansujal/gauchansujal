@@ -13,7 +13,7 @@
 - ⚡ Fun fact: I love building things that solve real-world problems 🧠
 
 - ## 📞 Connect with me:
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_USERNAME)
+
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sujalgauchan)
 
 ## 🧰 Languages and Tools:
