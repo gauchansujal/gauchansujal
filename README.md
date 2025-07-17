@@ -4,7 +4,7 @@
 
 ---
 
-- 🔭 I’m currently working on **Fitfule** and **Yatri Duyina**
+- 🔭 I’m currently working on **DataScienceassigenment**
 - 🌱 I’m currently learning **ReactJS**, **NodeJS**, **Kotlin**, and **Django**
 - 👨‍💻 All of my projects are available at [my GitHub profile](https://github.com/gauchansujal)
 - 💬 Ask me about **React**, **Django**, or **Frontend Development**
